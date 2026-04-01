@@ -1,4 +1,4 @@
-module responseHeaders
+module response
 
 go 1.24.1
 
